@@ -6,3 +6,5 @@ The package used to scrape Tweets without access to the official Twitter API was
 Sentiment analysis was conducted with https://huggingface.co/cardiffnlp/twitter-xlm-roberta-base-sentiment hosted on Azure Servers.
 
 Statistical testing with statsmodels.
+
+.csv files at: https://we.tl/t-mVfUq8Ovi0 (expires 09/05/23)
